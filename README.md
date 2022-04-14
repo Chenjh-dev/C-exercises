@@ -1,3 +1,3 @@
 # C-exercises
 
-C++ 练习题
+C、C++ 练习题
